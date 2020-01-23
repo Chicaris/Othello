@@ -1,0 +1,139 @@
+Joueur noir
+ - [H] Humain
+ - [A] Intelligence Artificielle
+ - [F] Fichier
+Choix ? Joueur blanc
+ - [H] Humain
+ - [A] Intelligence Artificielle
+ - [F] Fichier
+Choix ? Debut de la partie ... <enter> pour continuer
+ abcdefgh
+1........1
+2........2
+3........3
+4...OX...4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA noir calcule ... 0.011480 secondes
+nNode:317
+Le joueur noir a place son pion en d3 ... <enter> pour continuer
+ abcdefgh
+1........1
+2........2
+3...X....3
+4...XX...4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA blanc calcule ... 0.013804 secondes
+nNode:428
+Le joueur blanc a place son pion en c3 ... <enter> pour continuer
+ abcdefgh
+1........1
+2........2
+3..OX....3
+4...OX...4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA noir calcule ... 0.021444 secondes
+nNode:684
+Le joueur noir a place son pion en c4 ... <enter> pour continuer
+ abcdefgh
+1........1
+2........2
+3..OX....3
+4..XXX...4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA blanc calcule ... 0.032443 secondes
+nNode:1061
+Le joueur blanc a place son pion en e3 ... <enter> pour continuer
+ abcdefgh
+1........1
+2........2
+3..OOO...3
+4..XXO...4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA noir calcule ... 0.126623 secondes
+nNode:4017
+Le joueur noir a place son pion en e2 ... <enter> pour continuer
+ abcdefgh
+1........1
+2....X...2
+3..OXO...3
+4..XXO...4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA blanc calcule ... 0.076917 secondes
+nNode:2549
+Le joueur blanc a place son pion en c2 ... <enter> pour continuer
+ abcdefgh
+1........1
+2..O.X...2
+3..OOO...3
+4..XXO...4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA noir calcule ... 0.184783 secondes
+nNode:5959
+Le joueur noir a place son pion en d2 ... <enter> pour continuer
+ abcdefgh
+1........1
+2..OXX...2
+3..OXO...3
+4..XXO...4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA blanc calcule ... 0.151160 secondes
+nNode:5159
+Le joueur blanc a place son pion en b4 ... <enter> pour continuer
+ abcdefgh
+1........1
+2..OXX...2
+3..OXO...3
+4.OOOO...4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA noir calcule ... 0.269278 secondes
+nNode:9023
+Le joueur noir a place son pion en f4 ... <enter> pour continuer
+ abcdefgh
+1........1
+2..OXX...2
+3..OXX...3
+4.OOOOX..4
+5...XO...5
+6........6
+7........7
+8........8
+ abcdefgh
+IA blanc calcule ... 0.373274 secondes
+nNode:12697
+Le joueur blanc a place son pion en f3 ... <enter> pour continuer
